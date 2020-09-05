@@ -1,0 +1,12 @@
+<aiml version="1.0">
+    <category>
+        <pattern>Loading Files</pattern>
+        <template>
+            <!-- Load standard AIML set -->
+	    <learn>standard/rgit.aiml</learn>
+            <learn>standard/try.aiml</learn>
+	    <learn>standard/hi.aiml</learn>
+	    <learn>standard/ai.aiml</learn>
+        </template>
+    </category>
+</aiml>
